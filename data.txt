@@ -9,6 +9,6 @@ In-cycle clusters size:
 2220 addresses
 
 
-total sent to qtrade by cluster from currently in cycle verifiers: 4408062.548558
-total sent to qtrade by cluster: 8861490.156914
-total received by qtrade: 20409262.267140
+Total Nyzos sent to qtrade by largest cluster from currently in cycle verifiers: 4408062.548558
+Total Nyzos sent to qtrade by the largest cluster: 8861490.156914
+Grand Nyzos Total received by qtrade: 20409262.267140
