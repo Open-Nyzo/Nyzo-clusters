@@ -13,7 +13,7 @@ I was expecting more users would really analyse the data, find that error and sh
 
 I also got confirmation from qTrade that their deposit IDs are globally unique and never reused.
 
-## Stats
+## Stats  
 
 With the updated data and new cycle, the largest cluster consists of 1758 addresses, 1406 of them being in-cycle.  
 The cycle at that time was 2759, which makes 50.96% for the cluster.
