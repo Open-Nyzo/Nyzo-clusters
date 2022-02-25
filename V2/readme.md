@@ -22,3 +22,15 @@ Total Nyzo sent to qTrade by these addresses is 6,447,737.03022 Nyzos.
 
 Since recently joined verifiers did not sent to qTrade yet, they are excluded from the clustering.  
 This 50.96% therefore is a minimum.
+
+## group_joins_by_block.png
+
+From dcct:
+
+```
+Joins of this groups verifier vs other joins
+(by block)
+most recent joins are not tracked as most have no qtrade deposits yet
+They started early, and had >50% of all joins for quite a while
+I grouped 200k blocks for each data point
+```
